@@ -33,6 +33,7 @@
 - AI Chatbot – Interactive chatbot built with Flask, React & Gemini API  
 - Expense Tracker Web App – Tracks personal expenses using React  
 - Weather Dashboard – Displays current weather and forecasts using React & OpenWeatherMap API
+- Restaurant Website - Displays menu, contact us, about us,  my cart and rating, search option, add to cart option using HTML, CSS, Javascript
 
 ---
 
