@@ -29,11 +29,12 @@
 ---
 
 ## 📌 Projects
-- AI Summarizer – Summarizes text, PDFs, and YouTube URLs using Flask, React & Gemini API  
-- AI Chatbot – Interactive chatbot built with Flask, React & Gemini API  
-- Expense Tracker Web App – Tracks personal expenses using React  
-- Weather Dashboard – Displays current weather and forecasts using React & OpenWeatherMap API
-- Restaurant Website - Displays menu, contact us, about us,  my cart and rating, search option, add to cart option using HTML, CSS, Javascript
+- AI Summarizer – Summarizes text, PDFs, and YouTube URLs using Flask, React & Gemini API.  
+- AI Chatbot – Interactive chatbot built with Flask, React & Gemini API.  
+- Expense Tracker Web App – Tracks personal expenses using React.  
+- Weather Dashboard – Displays current weather and forecasts using React & OpenWeatherMap API.
+- Restaurant Website - A dynamic restaurant website with menu browsing, search, ratings, cart management, and add-to-cart functionality developed using HTML, CSS, and JavaScript.
+- Currency Converter - A React-based web app that converts currencies in real time using live exchange rate APIs with a clean and responsive UI.
 
 ---
 
